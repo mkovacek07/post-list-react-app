@@ -45,3 +45,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # q-test
+
+## Time spent on the project
+
+It took me approximately 6-7 working hours to complete the tasks for this project.
